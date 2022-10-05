@@ -1,6 +1,6 @@
-pull:
+pl:
 	@git pull
-push:
+p:
 	@git add .
 	@git commit -m "update"
 	@git push
